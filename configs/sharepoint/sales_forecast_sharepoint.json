@@ -1,0 +1,6 @@
+{
+    "source_type": "sharepoint",
+    "site_url": "https://contoso.sharepoint.com/sites/forecast",
+    "list_name": "SalesForecast",
+    "target_table": "dbo.SALES_FORECAST"
+}

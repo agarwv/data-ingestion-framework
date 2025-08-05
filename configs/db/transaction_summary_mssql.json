@@ -1,0 +1,12 @@
+{
+    "source_type": "mssql",
+    "connection": {
+        "username": "user2",
+        "password": "password2",
+        "host": "mssql.example.com",
+        "port": 1433,
+        "database": "FinanceDB"
+    },
+    "query": "SELECT * FROM TRANSACTION_SUMMARY",
+    "target_table": "dbo.TRANSACTION_SUMMARY"
+}

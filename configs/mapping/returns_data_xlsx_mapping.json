@@ -1,0 +1,10 @@
+{
+    "source_to_target": {
+        "src_column_1": "target_column_1",
+        "src_column_2": "target_column_2"
+    },
+    "data_types": {
+        "target_column_1": "VARCHAR(255)",
+        "target_column_2": "INT"
+    }
+}

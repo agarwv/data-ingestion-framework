@@ -1,0 +1,6 @@
+{
+    "source_type": "sharepoint",
+    "site_url": "https://contoso.sharepoint.com/sites/inventory",
+    "list_name": "InventoryStatus",
+    "target_table": "dbo.INVENTORY_STATUS"
+}

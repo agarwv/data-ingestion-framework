@@ -1,0 +1,7 @@
+{
+    "source_type": "file",
+    "file_type": "xlsx",
+    "file_path": "data/returns.xlsx",
+    "sheet_name": "Sheet1",
+    "target_table": "dbo.RETURNS"
+}

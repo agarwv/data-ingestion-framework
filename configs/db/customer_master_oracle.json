@@ -1,0 +1,12 @@
+{
+    "source_type": "oracle",
+    "connection": {
+        "username": "user1",
+        "password": "password1",
+        "host": "oracle.example.com",
+        "port": 1521,
+        "service": "ORCLPDB1"
+    },
+    "query": "SELECT * FROM CUSTOMER_MASTER",
+    "target_table": "dbo.CUSTOMER_MASTER"
+}
